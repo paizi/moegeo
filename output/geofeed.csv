@@ -1,6 +1,17 @@
 # Geofeed Community Aggregation by MoeDove LLC
-# Generated at: 2026-05-17T05:45:17.998989+00:00
-# Total prefixes: 20
+# Generated at: 2026-05-18T06:10:12.320133+00:00
+# Total prefixes: 44
+
+# AS200078 - Potat0 Network - Last change: Sun, 01 Feb 2026 06:16:27 GMT
+2a13:b487:1101::/48,CN,CN-SH,Shanghai,
+2a13:b487:1102::/48,CN,CN-SH,Shanghai,
+2a13:b487:1103::/48,US,US-NV,Las Vegas,
+2a13:b487:1104::/48,HK,CN-HK,Hong Kong,
+2a13:b487:1105::/48,DE,DE-HE,Frankfurt,
+2a13:b487:1106::/48,CN,CN-ZJ,Hangzhou,
+2a13:b487:1107::/48,CN,CN-GD,Shenzhen,
+2a13:b487:1109::/48,TW,TW-TPE,Taipei,
+2a13:b487:1110::/48,AU,AU-NSW,Sydney,
 
 # AS203309 - ChocoNet - Last change: Sat, 16 May 2026 07:20:11 GMT
 2a0f:1cc5:110::/44,HK,,Kowloon,999077
@@ -9,7 +20,7 @@
 2a0f:1cc5:150::/44,TW,TW-TPE,Taipei,10060
 2a0f:1cc5:160::/44,NL,NL-NH,Amsterdam,1011AB
 
-# AS210352 - ZeroWolf Network - Last change: Sat, 16 May 2026 05:34:42 GMT
+# AS210352 - ZeroWolf Network - Last change: Sun, 17 May 2026 17:23:27 GMT
 2a0f:1cc5:f00::/48,TW,TW-TPE,Taipei,
 2a0f:1cc5:f01::/48,HK,,Hong Kong,
 2a0f:1cc5:f02::/48,JP,JP-13,Tokyo,
@@ -20,8 +31,25 @@
 2a0f:1cc5:f07::/48,HK,,Hong Kong,
 2a0f:1cc5:f08::/48,NL,NL-NH,Amsterdam,
 2a0f:1cc5:f09::/48,US,US-CA,San Jose,
-2602:f92a:a47d::/48,US,US-CA,San Jose,
+2602:f92a:a47d::/48,TW,TW-TPE,Taipei,
 2406:840:9178::/48,TW,TW-TPE,Taipei,
+
+# AS214955 - LaunchPad Network - Last change: Fri, 20 Mar 2026 13:45:04 GMT
+2a0f:1cc5:2d01::/48,CH,,Bern,
+2a0f:1cc5:2d03::/48,CA,CA-QC,Montreal,
+2a14:7580:fffa::/48,CH,,Bern,
+2a14:7583:f702::/48,CN,CN-ZJ,Ningbo,
+2a14:7583:f703::/48,HK,,Hong Kong,
+2a14:7583:f704::/48,US,US-NY,New York,
+2a14:7583:f705::/48,US,US-CA,Los Angeles,
+2a14:7583:f706::/48,CN,CN-SH,Shanghai,201201
+2a14:7583:f709::/48,CN,CN-SH,Shanghai,201201
+2a14:7583:f70a::/48,US,US-CA,Los Angeles,
+2a14:7583:f70b::/48,HK,,Hong Kong,
+2a14:7583:f70c::/48,HK,,Hong Kong,
+2a14:7583:f743::/48,,,,
+2a14:7583:f744::/48,,,,
+2a14:7583:f764::/48,,,,
 
 # AS214968 - Kansokusha EEN - Last change: Fri, 15 May 2026 10:11:28 GMT
 44.30.89.0/24,JP,JP-13,Tokyo,113-0033
